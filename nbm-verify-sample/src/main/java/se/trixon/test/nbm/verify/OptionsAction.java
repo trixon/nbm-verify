@@ -30,7 +30,7 @@ import org.openide.util.NbBundle.Messages;
 @ActionRegistration(
         displayName = "#CTL_OptionsAction"
 )
-@ActionReference(path = "Shortcuts", name = "D-COMMA")
+@ActionReference(path = "Shortcuts", name = "D-O")
 @Messages("CTL_OptionsAction=Options")
 public final class OptionsAction implements ActionListener {
 
